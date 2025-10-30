@@ -49,10 +49,10 @@ export function ProfileCard() {
       </div>
       <div className="pt-16 px-6 pb-6">
         <div className="flex items-center gap-2">
-            <h1 className="text-3xl font-bold font-headline">Larissa Santos</h1>
+            <h1 className="text-3xl font-bold font-headline">Vanessa Silva</h1>
             <VerifiedIcon />
         </div>
-        <p className="text-muted-foreground">@larissasantos</p>
+        <p className="text-muted-foreground">@vanessasilva</p>
         <p className="mt-2 text-foreground/80">Safadinha gostosa 🔥 Conteúdo exclusivo todos os dias ✨</p>
       </div>
     </div>

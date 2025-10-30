@@ -2,7 +2,7 @@ import './globals.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Larissa - Conteúdo Exclusivo',
+  title: 'Vanessa - Conteúdo Exclusivo',
   description: 'Perfil com conteúdo exclusivo',
 };
 
